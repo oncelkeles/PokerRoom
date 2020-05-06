@@ -8,7 +8,7 @@ IP and port is self-explanatory. Target port is the port that will be used among
 
 To launch a client, issue:
 
-python3 client.py -ip <your-ip> -p <port> -u <uname>
+[python3 client.py -ip <your-ip> -p <port> -u <uname>]
   
 Once launched, clients will find the server automatically and ask the user if they want to play or spectate. If there are more than 2 players at a table the server will instantly start a game.
 
